@@ -42,4 +42,4 @@ const startApolloServer = async (typeDefs, resolvers) => {
 
 startApolloServer(typeDefs, resolvers);
 
-app.use(routes);
+//app.use(routes);
